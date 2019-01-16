@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="translucent">#00000000</color>
+    <color name="switch_color_on">#fab615</color>
+    <color name="switch_color_off">#706d50</color>
+    <color name="switch_color_gui">#1da8ff</color>
+    <color name="red_packet_top">#ff0404</color>
+    <color name="red_packet_bottom">#b70101</color>
+</resources>
