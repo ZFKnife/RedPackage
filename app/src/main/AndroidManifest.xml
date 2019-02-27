@@ -46,6 +46,7 @@
     <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
     <uses-permission android:name="android.permission.ANSWER_PHONE_CALLS" />
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -60,8 +61,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.NoticeActivity"
-            android:theme="@style/DialogStyle"/>
+        <activity
+            android:name=".activity.NoticeActivity"
+            android:theme="@style/DialogStyle" />
     </application>
 
 </manifest>
